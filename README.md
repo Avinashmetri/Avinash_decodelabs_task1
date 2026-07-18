@@ -25,7 +25,7 @@ People often need a quick, distraction-free way to log and view tasks without re
 3. Open your terminal or command prompt and navigate to the directory containing the file.
 4. Run the script using the following command:
    ```bash
-   python todo.py
+   python TODO_LIST.py
    
  ### Results & Conclusion
 * The script successfully fulfills the basic requirements of an interactive, terminal-based to-do application. It handles incorrect menu choices gracefully and effectively keeps track of inputs during its runtime.
