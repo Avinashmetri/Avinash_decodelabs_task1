@@ -21,7 +21,7 @@ People often need a quick, distraction-free way to log and view tasks without re
 
  ### How to Run this project?
 1. Ensure you have Python installed on your system.
-2. Copy the project code into a file named `Todolist.py`.
+2. Copy the project code into a file named `TODO_LIST.py`.
 3. Open your terminal or command prompt and navigate to the directory containing the file.
 4. Run the script using the following command:
    ```bash
